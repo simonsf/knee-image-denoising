@@ -3,7 +3,7 @@
 This is the implementation of Deep Learning-Based Motion Artifact Removal for MRI of the Knee by PyTorch, named Conditional de-motion-artifact diffusion model.
 We used the ResNet block and channel concatenation mechanism in our generative model.
 
-Our paper is under review, namely "Deep Learning-Based Model for Motion Artifact Removal for MRI of the Knee: Construction and Comparison with Other Algorisms".
+Our paper is under review, namely "Deep Learning-Based Model for Motion Artifact Removal for MRI of the Knee: Construction and Comparison with Other Algorithms".
 
 ## Usage
 ### Environment

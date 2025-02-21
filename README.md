@@ -51,10 +51,7 @@ python infer.py -c config/de-noise_infer.json
 
 ## Acknowledgements
 
-Our work is based on the following theoretical works:
+Our work draws inspiration from the following studies:
 
 - [Image Super-Resolution via Iterative Refinement](https://arxiv.org/pdf/2104.07636.pdf)
-
-Furthermore, we are benefitting a lot from the following projects:
-
 - https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
